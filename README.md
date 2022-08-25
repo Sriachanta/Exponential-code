@@ -1,1 +1,1 @@
-# Exponential-code
+# JavaScript Practise
